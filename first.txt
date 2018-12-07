@@ -1,2 +1,3 @@
 Hello new Git!!
 This is second change i've made!
+This is third one!!
